@@ -1,3 +1,14 @@
-.oxmod-oxm-8icon{
-/* CSS */
- }
+.oxmod-oxm-8icon {
+  /* CSS */
+}
+.oxmod-oxm-8icon .icon-row {
+  display: flex;
+}
+.oxmod-oxm-8icon .icon {
+  border: solid 1px #ccc;
+  text-align: center;
+  padding: 5% 0;
+}
+.oxmod-oxm-8icon .icon img {
+  width: 90%;
+}
