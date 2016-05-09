@@ -1,0 +1,6 @@
+{
+  "name": "oxm-8icon",
+  "version": "1.0.0",
+  "apiDependencies": ["icon-menu"]
+}
+
