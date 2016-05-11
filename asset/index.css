@@ -5,10 +5,16 @@
   display: flex;
 }
 .oxmod-oxm-8icon .icon {
-  border: solid 1px #ccc;
+  border-left: solid 1px #ccc;
+  border-bottom: solid 1px #ccc ;
   text-align: center;
   padding: 5% 0;
+  text-decoration: none;
+  color: #666;
+}
+.oxmod-oxm-8icon .icon:first-child {
+  border-left-style: none;
 }
 .oxmod-oxm-8icon .icon img {
-  width: 90%;
+  width: 30%;
 }
